@@ -1,16 +1,29 @@
 ### Hi there 👋
+##### Hi, I'm Sashank:
 
-<!--
-**ShasV05/ShasV05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Learning about Artificial Intelligence in python
+- :test_tube: Making A chatbot
+- :speech_balloon: Ask me about web development, cybersecurity, AIML, Python, or literally anything!
+- :mailbox: You can reach me with the links below
 
-Here are some ideas to get you started:
+[![Discord](https://img.shields.io/badge/-DISCORD-2CA5E0?style=for-the-badge&logo=discord&logoColor=blue)]()
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashankvanka@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Languages I use
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=assembly)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
+
