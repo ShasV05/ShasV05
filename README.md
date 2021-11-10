@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
@@ -29,6 +30,6 @@
 #### Some info about my github
 Streak                     |  Most Used Languages     |      Some Information |
 :-------------------------:|:-------------------------:|-------------------|
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05)  |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css)   |   ![Sashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05)|  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css)  |   ![Sashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical)
 
 
