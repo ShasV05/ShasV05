@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=assembly)
+![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=asm)
 
 ##### Some of the technologies I have worked with
 
@@ -24,6 +24,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=F5820D)
 
 #### Some info about my github
 Streak                     |  Most Used Languages     |      Some Information |
