@@ -6,7 +6,6 @@
 - :speech_balloon: Ask me about web development, cybersecurity, AIML, Python, or literally anything!
 - :mailbox: You can reach me with the links below
 
-[![Discord](https://img.shields.io/badge/-DISCORD-2CA5E0?style=for-the-badge&logo=discord&logoColor=blue)]()
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashankvanka@outlook.com)
 
 ##### Languages I use
@@ -25,5 +24,10 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
+#### Some info about my github
+Streak                     |  Most Used Languages     |      Some Information |
+:-------------------------:|:-------------------------:|-------------------|
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css)]    |   ![Sashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical)
 
 
