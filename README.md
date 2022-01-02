@@ -1,12 +1,12 @@
 ### Hi there 👋
-##### Hi, I'm Sashank:
+##### Hi, I'm Shas:
 
 - 🎓 Learning about Artificial Intelligence in python
 - :test_tube: Making A chatbot
 - :speech_balloon: Ask me about web development, cybersecurity, AIML, Python, or literally anything!
 - :mailbox: You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashankvanka@outlook.com)
+
 
 ##### Languages I use
 
@@ -30,6 +30,6 @@
 #### Some info about my github
 Streak                     |  Most Used Languages     |      Some Information |
 :-------------------------:|:-------------------------:|-------------------|
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code</h6>|  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css,basic,roff,freebasic,assembly,makefile,shell,vba) <h6>(I use python more, don't let this fool you 😂)</h6>|   ![Sashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical) |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code</h6>|  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css,basic,roff,freebasic,assembly,makefile,shell,vba) <h6>(I use python more, don't let this fool you 😂)</h6>|   ![Shas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical) |
 
 
