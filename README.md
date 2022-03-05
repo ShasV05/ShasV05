@@ -4,7 +4,7 @@
 - 🎓 Learning about Artificial Intelligence in python
 - :test_tube: Making A chatbot
 - :speech_balloon: Ask me about web development, cybersecurity, AIML, Python, or literally anything!
-- :mailbox: You can reach me with the links below
+- :mailbox: Discord maybe? SH4NK#4381
 
 
 
