@@ -28,8 +28,12 @@
 ![Node.js](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=F5820D)
 
 #### Some info about my github
-Streak                     |  Most Used Languages     |      Some Information |
-:-------------------------:|:-------------------------:|-------------------|
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code</h6>|  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css,basic,roff,freebasic,assembly,makefile,shell,vba) <h6>(I use python more, don't let this fool you 😂)</h6>|   ![Shas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical) |
+##### Streak                     
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code</h6>
+##### Top languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css,basic)
+I use python more
+##### Github Stats
+![Shas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical) |
 
 
