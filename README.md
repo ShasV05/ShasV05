@@ -39,7 +39,9 @@
 ![Shas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical)
 
 ##### Time spent
-![Time spent on programming](https://github-readme-stats.vercel.app/api/wakatime?username=Shas)
+<a href="https://wakatime.com/@Shas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shas&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=852121&title_color=fff&text_color=fff" />
+  </a>
 
 
 
