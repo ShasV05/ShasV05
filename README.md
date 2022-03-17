@@ -25,15 +25,20 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Node.js](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=F5820D)
+![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=F5820D)
+
 
 #### Some info about my github
 ##### Streak                     
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code</h6>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code to open source</h6>
 ##### Top languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05&hide=javascript,css,basic)
-I use python more
+<h6>I use python more</h6>
 ##### Github Stats
-![Shas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical) |
+![Shas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical)
+##### Time spent
+![Shas' Time spent on programming](https://github-readme-stats.vercel.app/api/wakatime?username=Shas)]
+
+
 
 
