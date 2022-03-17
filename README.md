@@ -40,7 +40,7 @@
 
 ##### Time spent
 <a href="https://wakatime.com/@Shas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shas&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shas&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=fff&title_color=000&text_color=000"/>
   </a>
 
 
