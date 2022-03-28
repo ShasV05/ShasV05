@@ -32,8 +32,7 @@
 ##### Streak                     
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShasV05) <h6>I don't usually commit code to open source</h6>
 ##### Top languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShasV05)
-<h6>I use python more</h6>
+<img src="https://wakatime.com/share/@Shas/45bfab09-891a-4313-9e8f-1843bd300793.svg" width="500">
 
 ##### Github Stats
 ![Shas' GitHub stats](https://github-readme-stats.vercel.app/api?username=ShasV05&show_icons=true&theme=radical)
