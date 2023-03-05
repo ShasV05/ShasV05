@@ -17,6 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=asm)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+
 
 ##### Some of the technologies I have worked with
 
