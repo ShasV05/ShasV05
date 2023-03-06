@@ -2,7 +2,7 @@
 ##### Hi, I'm Shas:
 
 - 🎓 Learning about Artificial Intelligence in python
-- :test_tube: Making A chatbot
+- :test_tube: Working on 3D stuff
 - :speech_balloon: Ask me about web development, cybersecurity, AIML, Python, or literally anything!
 - :mailbox: Discord maybe? SH4NK#4381
 
